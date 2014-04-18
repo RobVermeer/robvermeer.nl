@@ -10,6 +10,8 @@
 
   <?php echo css('//fonts.googleapis.com/css?family=Ubuntu+Mono:400,700'); ?>
   <?php echo css('assets/css/style.css'); ?>
+  
+  <link rel="shortcut icon" href="<?php url('assets/img/favicon.ico') ?>">
 
 </head>
 
