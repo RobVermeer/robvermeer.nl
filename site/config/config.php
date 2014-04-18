@@ -3,6 +3,8 @@
 // direct access protection
 if(!defined('KIRBY')) die('Direct access is not allowed');
 
+c::set('google-analytics', 'UA-38481042-1');
+
 /* 
 
 ---------------------------------------
