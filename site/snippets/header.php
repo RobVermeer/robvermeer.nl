@@ -12,6 +12,8 @@
   <?php echo css('assets/css/style.css'); ?>
   
   <link rel="shortcut icon" href="<?php echo url('assets/img/favicon.ico') ?>">
+  
+  <?php ga(); ?>
 
 </head>
 
