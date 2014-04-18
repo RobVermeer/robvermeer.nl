@@ -2,6 +2,7 @@
 panel/
 site/panel
 docs
+*.map
 
 
 #################
