@@ -1,9 +1,11 @@
-Title: Kirby
+Title: RobVermeer.nl
 ----
-Author: Bastian Allgeier
+Author: Rob Vermeer
 ----
-Description: Kirby is awesome
+Email: rob@vermeertech.nl
 ----
-Keywords: kirby, cms, kirbycms, php, filesystem
+Description: Rob Vermeer - Webdevelopment
 ----
-Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Bastian Allgeier)
+Keywords: Rob, Vermeer, Webdevelopment, WordPress, HTML, CSS, JavaScript, jQuery
+----
+Copyright: © (date: Year) (link: http://robvermeer.nl text: RobVermeer.nl)
