@@ -260,4 +260,14 @@ header h3 {
     font-size: 25px;
   }
 }
+.content {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.content nav {
+  background-color: #00becc;
+  color: #ffffff;
+  padding: 10px;
+}
 /*# sourceMappingURL=style.css.map */
