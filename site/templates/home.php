@@ -2,7 +2,7 @@
 
 <?php snippet('leader') ?>
 
-	<article>
+	<article id="article">
 		<?php echo kirbytext($page->text()) ?>
 	</article>
 
