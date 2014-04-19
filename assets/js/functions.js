@@ -1,6 +1,12 @@
+var console = console || {
+    "log": function(stuff) {}
+};
+
 ;(function($) {
 	var $root = $("html, body"),
 		$body = $("body");
+		
+	console.log("Hi there =)");
 	
 	$body.on("click", ".jump", function(e) {
 		var $this = $(this),
