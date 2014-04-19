@@ -16,11 +16,17 @@ body {
 	font-size: @font-size;
 	line-height: @line-height;
 	background: @body-bg;
+	color: @color;
 }
 
 a {
-	color: inherit;
+	color: @link-color;
 	text-decoration: none;
+	.transition(color 0.2s ease-in-out);
+	
+	&:hover {
+		color: darken(@link-color, 20%);
+	}
 }
 
 hr {

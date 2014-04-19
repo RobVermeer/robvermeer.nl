@@ -10,4 +10,4 @@ Description: Rob Vermeer - Webdevelopment
 ----
 Keywords: Rob, Vermeer, Webdevelopment, WordPress, HTML, CSS, JavaScript, jQuery
 ----
-Copyright: © (date: Year) (link: http://robvermeer.nl text: RobVermeer.nl)
+Copyright: &copy; copyright (link: http://robvermeer.nl text: RobVermeer.nl) (date: Year)

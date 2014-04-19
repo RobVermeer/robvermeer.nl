@@ -2,8 +2,8 @@
 
 <?php snippet('leader') ?>
 
-	<section class="content">
+	<article>
 		<?php echo kirbytext($page->text()) ?>
-	</section>
+	</article>
 
 <?php snippet('footer') ?>
