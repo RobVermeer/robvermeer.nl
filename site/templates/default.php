@@ -1,4 +1,5 @@
 <?php snippet('header') ?>
+
 	<section class="content">
 		<nav>
 			<a href="<?php echo c::get('url'); ?>">Back to home</a>

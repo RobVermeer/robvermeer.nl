@@ -1,7 +1,31 @@
 Title: Webdevelopment
-
 ----
-
 Text: 
+## Who am I?
 
-RobVermeer.nl - Webdevelopment
+- Rob Vermeer
+- living in Amsterdam
+- work as a freelance webdeveloper
+- specialized in HTML, CSS, JavaScript and WordPress
+
+Yo can contact me @
+
+- (email: rob@vermeertech.nl text: rob@vermeertech.nl)
+- (link: https://github.com/RobVermeer text: GitHub)
+- (link: https://twitter.com/Rob_Vermeer text: Twitter)
+- (link: http://stackexchange.com/users/1107862/rob-vermeer text: StackExchange)
+
+****
+
+## Websites I build
+
+- (link: http://www.ndsm.nl text: NDSM)
+- (link: http://www.jlgrealestate.com text: JLG Real Estate)
+- (link: http://www.secondsight.nl text: Second Sight)
+- (link: http://www.napk.nl text: Nederlandse Associatie voor PodiumKunsten)
+- (link: http://www.noordagenda.nl text: Noord Agenda)
+- (link: http://www.editio.nl text: Editio)
+
+and also (link: http://www.opendevelopment.nl text: OPEN Development), (link: http://wijkplatformelsrijk.nl text: Wijkplatform Elsrijk), (link: http://magneetfestival.nl text: Magneet Festival) ...
+
+****
