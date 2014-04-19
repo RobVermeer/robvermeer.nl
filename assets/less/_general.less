@@ -17,6 +17,16 @@ body {
 	line-height: @line-height;
 	background: @body-bg;
 	color: @color;
+	
+	@media (min-width: @tablet) {
+		font-size: round(@font-size * 1.2);
+		line-height: round(@line-height * 1.2);
+	}
+	
+	@media (min-width: @desktop) {
+		font-size: round(@font-size * 1.35);
+		line-height: round(@line-height * 1.35);
+	}
 }
 
 a {
