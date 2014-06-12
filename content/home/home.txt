@@ -8,7 +8,7 @@ Text:
 - work as a freelance webdeveloper
 - specialized in HTML, CSS, JavaScript and WordPress
 
-Yo can contact me @
+You can contact me @
 
 - (email: rob@vermeertech.nl text: rob@vermeertech.nl)
 - (link: https://github.com/RobVermeer text: GitHub)
