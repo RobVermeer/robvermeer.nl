@@ -3,8 +3,10 @@ var console = console || {
 };
 
 ;(function($) {
-	var $root = $("html, body"),
-		$body = $("body");
+	var $window = $(window),
+		$root = $("html, body"),
+		$body = $("body"),
+		$header = $('header');
 		
 	console.log("Hi there =)");
 	
@@ -16,5 +18,9 @@ var console = console || {
 		
 		e.preventDefault();
 	});
-
+	
+	$window.bind('scroll', function() {
+		$header.css('top', - $window.scrollTop());
+	});
+	
 })(window.jQuery);
