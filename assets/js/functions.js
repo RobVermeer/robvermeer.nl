@@ -19,8 +19,4 @@ var console = console || {
 		e.preventDefault();
 	});
 	
-	$window.bind('scroll', function() {
-		$header.css('top', - $window.scrollTop());
-	});
-	
 })(window.jQuery);
