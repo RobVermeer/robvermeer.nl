@@ -3,12 +3,12 @@ Title: Webdevelopment
 Text: 
 ## Who am I?
 
-- Rob Vermeer
-- live in Amsterdam
-- work as a freelance webdeveloper (since 2010)
-- specialized in HTML, CSS, JavaScript and WordPress development
+- My name is Rob Vermeer
+- I live in Amsterdam
+- I work as a freelance webdeveloper (since 2010)
+- My specialties are HTML, CSS, JavaScript and WordPress development
 
-You can contact me @
+You can contact me at
 
 - (email: rob@vermeertech.nl text: rob@vermeertech.nl)
 - (link: https://github.com/RobVermeer text: GitHub)
