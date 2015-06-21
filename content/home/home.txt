@@ -4,7 +4,7 @@ Text:
 ## Who am I?
 
 - Rob Vermeer
-- living in Amsterdam
+- live in Amsterdam
 - work as a freelance webdeveloper
 - specialized in HTML, CSS, JavaScript and WordPress
 
