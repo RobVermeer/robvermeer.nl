@@ -55,26 +55,33 @@ header {
 			font-size: 40px;
 		}
 	}
+}
+
+.see-more {
+	position: absolute;
+	top: -80px;
+	left: 0;
+	right: 0;
+	padding: 20px 0;
+	font-size: 50px;
+	color: fade(white, 50%);
+	text-align: center;
+
+	span {
+		display: block;
+	}
 	
-	.see-more {
-		position: absolute;
-		bottom: 0;
-		left: 0;
-		right: 0;
-		padding: 20px 0;
-		font-size: 50px;
-		color: fade(white, 50%);
+	&:hover {
+		color: fade(white, 80%);
 		
-		&:hover {
-			color: fade(white, 80%);
+		i {
+			width: 50px;
 			
-			i {
-				.keyframes(jump;{
-					0% { .translate(0, 0) }
-					100% { .translate(0, -10px) }
-				});
-				.animation(jump 0.4s ease-in infinite alternate)
-			}
+			.keyframes(jump;{
+				0% { .translate(0, 0) }
+				100% { .translate(0, -10px) }
+			});
+			.animation(jump 0.4s ease-in infinite alternate)
 		}
 	}
 }

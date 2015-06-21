@@ -4,9 +4,11 @@ var console = console || {
 
 ;(function($) {
 	var $window = $(window),
+		wHeight = $window.outerHeight(),
 		$root = $("html, body"),
 		$body = $("body"),
-		$header = $('header');
+		$header = $('header'),
+		$jumpIcon = $('.jump span');
 		
 	console.log("Hi there =)");
 	
@@ -18,5 +20,15 @@ var console = console || {
 		
 		e.preventDefault();
 	});
+
+	$window.on('scroll', rotateJumpIcon);
+	rotateJumpIcon();
+
+	function rotateJumpIcon() {
+		var deg = 0 + $window.scrollTop() / wHeight * 360,
+			deg = (deg > 180 ? 180 : Math.round(deg));
+		
+		$jumpIcon.css({transform: 'rotate(' + deg + 'deg)'});
+	}
 	
 })(window.jQuery);
