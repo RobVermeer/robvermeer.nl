@@ -5,8 +5,8 @@ Text:
 
 - Rob Vermeer
 - live in Amsterdam
-- work as a freelance webdeveloper
-- specialized in HTML, CSS, JavaScript and WordPress
+- work as a freelance webdeveloper (since 2010)
+- specialized in HTML, CSS, JavaScript and WordPress development
 
 You can contact me @
 
@@ -20,15 +20,17 @@ You can contact me @
 ## Websites I built
 
 - (link: http://wearepublic.nl text: We Are Public)
+- (link: http://beta.crowdbuilding.nl text: Crowd Building)
+- (link: http://www.editio.nl text: Editio)
 - (link: http://www.ndsm.nl text: NDSM)
 - (link: http://subbacultcha.nl text: Subbacultcha)
-- (link: http://depit.nl text: De PIT)
 - (link: http://www.jlgrealestate.com text: JLG Real Estate)
-- (link: http://www.secondsight.nl text: Second Sight)
 - (link: http://www.napk.nl text: Nederlandse Associatie voor PodiumKunsten)
 - (link: http://www.noordagenda.nl text: Noord Agenda)
-- (link: http://www.editio.nl text: Editio)
+- (link: http://depit.nl text: De PIT)
 
-and also (link: http://www.opendevelopment.nl text: OPEN Development), (link: http://wijkplatformelsrijk.nl text: Wijkplatform Elsrijk), (link: http://magneetfestival.nl text: Magneet Festival) ...
+(link: http://magneetfestival.nl text: Magneet Festival), (link: http://appsterdam.rs/ text: Appsterdam), (link: http://www.opendevelopment.nl text: OPEN Development), (link: http://wijkplatformelsrijk.nl text: Wijkplatform Elsrijk), (link: http://tenista.nl/ text: SVU TeniSTA), (link: http://www.citydevelopment.nl/ text: City Development), (link: http://www.onderzoeksmarketing.nl/ text: KCR Onderzoeksmarketing)
+
+<sup>Eight 2 Eight, Presence Training, Spaces, Van Vandaag, Homeless, Second Sight, Sustain Mobile, Werner Damen, Ezwim, Business&copy;ees ...</sup>
 
 ****
